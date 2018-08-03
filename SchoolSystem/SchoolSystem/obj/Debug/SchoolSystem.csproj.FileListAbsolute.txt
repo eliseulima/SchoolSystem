@@ -1,0 +1,16 @@
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll.config
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojAssemblyReference.cache
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll.config
+C:\Users\vinib\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CopyComplete
